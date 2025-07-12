@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "твой_токен_сюда"  # Лучше передавать через переменную окружения
+TOKEN = "8004644159:AAHpTPScjFTiI45zG7uUbJh4q41xNrLupXU"  # Лучше передавать через переменную окружения
 ADMIN_ID = 1267693167  # Твой Telegram ID для получения вопросов
 
 # Кнопки и тексты для них
